@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/peng1565/!svn/ver/2/trunk/glideGame/ccframework/scoremanager
+END
+SQLDatabase.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/peng1565/!svn/ver/2/trunk/glideGame/ccframework/scoremanager/SQLDatabase.h
+END
+score.SQLite
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/peng1565/!svn/ver/2/trunk/glideGame/ccframework/scoremanager/score.SQLite
+END
+SQLDatabase.mm
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/peng1565/!svn/ver/2/trunk/glideGame/ccframework/scoremanager/SQLDatabase.mm
+END
+ScoreManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/peng1565/!svn/ver/2/trunk/glideGame/ccframework/scoremanager/ScoreManager.h
+END
+ScoreManager.mm
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/peng1565/!svn/ver/2/trunk/glideGame/ccframework/scoremanager/ScoreManager.mm
+END

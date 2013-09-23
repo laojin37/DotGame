@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>curLevel</key>
+	<integer>0</integer>
+	<key>curStage</key>
+	<integer>0</integer>
+	<key>unlocklevel_0</key>
+	<true/>
+	<key>unlockstage_000</key>
+	<true/>
+	<key>unlockstage_001</key>
+	<true/>
+	<key>unlockstage_002</key>
+	<true/>
+	<key>unlockstage_003</key>
+	<true/>
+	<key>unlockstage_004</key>
+	<true/>
+	<key>maxLevel</key>
+	<integer>5</integer>
+	<key>BGM</key>
+	<true/>
+	<key>Effect</key>
+	<true/>
+	<key>score</key>
+	<integer>0</integer>
+</dict>
+</plist>
